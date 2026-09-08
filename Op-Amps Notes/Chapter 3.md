@@ -13,7 +13,8 @@ Several assumptions must be made:
 <img src=".attachments/be9e1e6a662bd537560c7fc1d64d8a6e6f178dbe.png"> 
 </center>
 </div>
-- when $R_g$
+- when $R_g=0$ TODO
+matrh either hadnwritten or adapt mathjax with iframes to html files
 
 
 
