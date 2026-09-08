@@ -6,5 +6,5 @@ I use [Noteshub](https://about.noteshub.app/) for a simple portable workflow to 
 
 - [Op Amps for Everyone](https://web.mit.edu/6.101/www/reference/op_amps_everyone.pdf)
 - [Falstad Index of Circuits](https://www.falstad.com/circuit/e-index.html)
-- --- The interactive simulator is great too
+- The interactive simulator is great too
 
