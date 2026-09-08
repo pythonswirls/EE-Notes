@@ -7,8 +7,10 @@ Several assumptions must be made:
 - "the frequency response of the ideal op amp is flat; this means that the gain does not vary as frequency increases" (holds true irl with lower freq's)
 
 ## 3.2 Noninverting Op amp
-<div class="image-row">
+<center><div class="image-row">
 <img src=".attachments/0c27d8cdb1d22763bcda4da5e4b9e1a383c15e7b.png">
 <img src=".attachments/be9e1e6a662bd537560c7fc1d64d8a6e6f178dbe.png"> 
 </div>
+</center>
+
 
