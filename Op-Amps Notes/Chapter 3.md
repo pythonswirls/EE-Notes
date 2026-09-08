@@ -8,6 +8,6 @@ Several assumptions must be made:
 
 ## 3.2 Noninverting Op amp
 <div class="image-row">
-![image](.attachments/0c27d8cdb1d22763bcda4da5e4b9e1a383c15e7b.png)
+<img src=".attachments/0c27d8cdb1d22763bcda4da5e4b9e1a383c15e7b.png"
 </div>
 
