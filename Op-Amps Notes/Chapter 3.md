@@ -14,7 +14,10 @@ Several assumptions must be made:
 </center>
 </div>
 - when $R_g=0$ TODO
-matrh either hadnwritten or adapt mathjax with iframes to html files
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
 
 
 
