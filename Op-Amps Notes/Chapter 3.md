@@ -13,4 +13,3 @@ Several assumptions must be made:
 </div>
 </center>
 
-
